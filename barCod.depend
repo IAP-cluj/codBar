@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1501500596 source:f:\iap-bun\proiect integrator\barcod\main.cpp
-	<iostream>
-	<cstring>
-	<ctime>
-	<string.h>
-	<fstream>
-
